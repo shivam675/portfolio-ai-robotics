@@ -1,0 +1,1776 @@
+{
+ "url": "http://127.0.0.1:5173",
+ "at": "2026-10-15T13:23:15.556Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.48,
+    0.58,
+    0.87,
+    0.96,
+    0.94,
+    1,
+    0.66,
+    0.61,
+    0.68,
+    0.31
+   ],
+   "motion": {
+    "elements": 41,
+    "css": 32,
+    "transitions": 9,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8532,
+     "screens": 9.5,
+     "words": 646,
+     "img": 11,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "easyrtg.webp",
+      "slm-desk.webp",
+      "physical-ai.webp",
+      "easyrtg.webp",
+      "slm-desk.webp",
+      "fillwise.webp",
+      "physical-ai.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "chars": 16,
+     "lines": 2,
+     "size": 139.7,
+     "vw": 9.7,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.39,
+     "top": 293,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "lines": 2,
+     "size": 139.7,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "AI, put to work.",
+      "words": 4,
+      "chars": 16,
+      "lines": 2,
+      "size": 139.7,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 293,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2065,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "EasyRTG",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2382,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SLM Desk",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3147,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "FillWise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3912,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Language to motion",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 4637,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Further explorations.",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 5417,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Built in practice.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 6010,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelimek Systems",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 6192,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Tata Elxsi",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 6432,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Both sides of intelligence.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 6861,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Education & research",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 42,
+      "vw": 2.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.42,
+      "top": 7200,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build what’s next.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 165.6,
+      "vw": 11.5,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 7821,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      16,
+      18,
+      24,
+      42,
+      78,
+      140,
+      166
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 18,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 165.6,
+      "vw": 11.5,
+      "font": "Manrope",
+      "text": "Let’s buildwhat’s next."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111111",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111111",
+       "top": 112,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#f0f0f0",
+       "top": 1961,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#dcdcdc",
+       "top": 6749,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.86
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#171717",
+       "share": 0.42
+      },
+      {
+       "color": "#555555",
+       "share": 0.27
+      },
+      {
+       "color": "#bdbdbd",
+       "share": 0.09
+      },
+      {
+       "color": "#626262",
+       "share": 0.08
+      },
+      {
+       "color": "#f3f3f3",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#111111"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Pause motion Ⅱ",
+      "View selected work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 7,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.31
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 112,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.48,
+    0.72,
+    0.87,
+    0.94,
+    0.87,
+    0.99,
+    0.73,
+    0.55,
+    0.84,
+    0.48
+   ],
+   "motion": {
+    "elements": 32,
+    "css": 32,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 9596,
+     "screens": 9.4,
+     "words": 650,
+     "img": 11,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "easyrtg.webp",
+      "slm-desk.webp",
+      "physical-ai.webp",
+      "easyrtg.webp",
+      "slm-desk.webp",
+      "fillwise.webp",
+      "physical-ai.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "chars": 16,
+     "lines": 2,
+     "size": 107.5,
+     "vw": 14,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 204,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "lines": 2,
+     "size": 107.5,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "AI, put to work.",
+      "words": 4,
+      "chars": 16,
+      "lines": 2,
+      "size": 107.5,
+      "vw": 14,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 204,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1628,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "EasyRTG",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1835,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "SLM Desk",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2962,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "FillWise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4090,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Language to motion",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5217,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Further explorations.",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 6335,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Built in practice.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 7046,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelimek Systems",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 7189,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Tata Elxsi",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 7489,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Both sides of intelligence.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 7977,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Education & research",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 8406,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build what’s next.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 88.3,
+      "vw": 11.5,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 9037,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      16,
+      18,
+      24,
+      28,
+      42,
+      88,
+      108
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 18,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 107.5,
+      "vw": 14,
+      "font": "Manrope",
+      "text": "AI, putto work."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111111",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111111",
+       "top": 112,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#f0f0f0",
+       "top": 1524,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#dedede",
+       "top": 2192,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#dcdcdc",
+       "top": 7865,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.86
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#171717",
+       "share": 0.41
+      },
+      {
+       "color": "#555555",
+       "share": 0.26
+      },
+      {
+       "color": "#626262",
+       "share": 0.09
+      },
+      {
+       "color": "#bdbdbd",
+       "share": 0.09
+      },
+      {
+       "color": "#f3f3f3",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#111111"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Pause motion Ⅱ",
+      "View selected work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 112,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.59,
+    0.67,
+    0.9,
+    0.92,
+    0.99,
+    1,
+    0.97,
+    0.5,
+    0.84,
+    0.8,
+    0.54
+   ],
+   "motion": {
+    "elements": 31,
+    "css": 31,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8831,
+     "screens": 10.5,
+     "words": 646,
+     "img": 11,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "easyrtg.webp",
+      "slm-desk.webp",
+      "fillwise.webp",
+      "physical-ai.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "chars": 16,
+     "lines": 2,
+     "size": 74,
+     "vw": 19,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.065,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 188,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "AI, put to work.",
+     "words": 4,
+     "lines": 2,
+     "size": 74,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "AI, put to work.",
+      "words": 4,
+      "chars": 16,
+      "lines": 2,
+      "size": 74,
+      "vw": 19,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 188,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1296,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "EasyRTG",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1480,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 2275,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SLM Desk",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2444,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 3239,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "FillWise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3407,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4202,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Language to motion",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4371,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 5166,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Further explorations.",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 5331,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Built in practice.",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 6056,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelimek Systems",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6252,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Tata Elxsi",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6614,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Both sides of intelligence.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 38,
+      "vw": 9.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 7093,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Education & research",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 7798,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build what’s next.",
+      "words": 4,
+      "chars": 24,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.65,
+      "top": 8318,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      16,
+      17,
+      24,
+      28,
+      38,
+      52,
+      74
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 74,
+      "vw": 19,
+      "font": "Manrope",
+      "text": "AI, putto work."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#111111",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.07
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#111111",
+       "top": 104,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#f0f0f0",
+       "top": 1232,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#dcdcdc",
+       "top": 7021,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.86
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#171717",
+       "share": 0.42
+      },
+      {
+       "color": "#555555",
+       "share": 0.27
+      },
+      {
+       "color": "#626262",
+       "share": 0.09
+      },
+      {
+       "color": "#bdbdbd",
+       "share": 0.09
+      },
+      {
+       "color": "#f3f3f3",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#111111"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 3,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Pause motion Ⅱ",
+      "View selected work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.29
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 104,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/desktop-fold.jpg",
+   "pages": [
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/desktop-page-01.jpg",
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/desktop-page-02.jpg",
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/desktop-page-03.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/tablet-fold.jpg",
+   "pages": [
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/tablet-page-01.jpg",
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/tablet-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/mobile-fold.jpg",
+   "pages": [
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/mobile-page-01.jpg",
+    "/home/sentinal/workspace/personal/protfolios/.taste-skill/landing-motion/mobile-page-02.jpg"
+   ]
+  }
+ ]
+}

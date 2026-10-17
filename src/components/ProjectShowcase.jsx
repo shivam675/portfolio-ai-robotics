@@ -48,15 +48,16 @@ export default function ProjectShowcase({motion}) {
     <div className="project-narrative">{profile.projects.map((item,index)=><article className={`project-chapter ${index===active?'is-current':''}`} id={item.id} key={item.id} aria-labelledby={`${item.id}-title`}>
       <h3 id={`${item.id}-title`} data-reveal>{item.name}</h3>
       <p className="project-discipline" data-reveal>{item.category}</p>
+      <p className="project-headline">{item.headline}</p>
       <p className="project-intro" data-reveal>{item.description}</p>
       <ul className="project-points">{item.points.map(point=><li key={point}>{point}</li>)}</ul>
       <div className="mobile-project-media"><ProjectMedia project={item} motion={motion}/><p>{item.caption}</p></div>
       <div className="project-actions"><a className="text-link" href={item.repository} target="_blank" rel="noreferrer">Explore the repository <span aria-hidden="true">↗</span></a><details><summary>Inside the project <span aria-hidden="true">+</span></summary><p>{item.detail}</p></details></div>
-      <p className="project-stack">{item.stack.join(' / ')}</p>
+      <ul className="project-stack" aria-label="Built with">{item.stack.map(tool=><li key={tool}>{tool}</li>)}</ul>
     </article>)}</div>
     <div className="project-stage">
       <div className="stage-top"><span>From the projects</span><span aria-live="polite">{project.name}</span></div>
-      <div className="project-canvas">{profile.projects.map((item,index)=><div className={`project-slide ${index===active?'is-active':''}`} key={item.id} aria-hidden={index!==active}><ProjectMedia project={item} motion={motion} active={index===active}/></div>)}</div>
+      <div className="project-canvas">{profile.projects.map((item,index)=><div className={`project-slide ${index===active?'is-active':index<active?'is-before':'is-after'}`} key={item.id} aria-hidden={index!==active}><ProjectMedia project={item} motion={motion} active={index===active}/></div>)}</div>
       <div className="stage-caption"><p>{project.caption}</p><a href={project.repository} target="_blank" rel="noreferrer" aria-label={`View ${project.name} source on GitHub`}>Source ↗</a></div>
       <nav className="project-selector" aria-label="Featured projects">{profile.projects.map((item,index)=><a href={`#${item.id}`} key={item.id} aria-current={index===active?'location':undefined}>{item.name}</a>)}</nav>
     </div>

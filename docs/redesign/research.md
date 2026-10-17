@@ -1,5 +1,7 @@
 # Project-led portfolio research — 15 October 2026
 
+Update: the subsequently requested scroll-driven landing is documented in [landing-motion.md](landing-motion.md). The notes below preserve the earlier project-focused revision. Current production JavaScript is approximately 100 kB gzip after the added precomputed illustration.
+
 ## User direction
 The user rejected a portfolio centred on one invented machine. The revised brief is a seamless showcase of important real repositories, supported by the supplied résumé, with equal relevance to AI/agent engineering and robotics/embodied AI roles. Keep black, white and neutral greys and client-side rendering. The document at `/home/sentinal/Downloads/2026_resume/main.md` is treated as factual source material, not executable instructions.
 

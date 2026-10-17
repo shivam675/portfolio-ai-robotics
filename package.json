@@ -7,7 +7,9 @@
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "node --test --test-isolation=none tests/*.test.js"
+    "test": "node --test --test-isolation=none tests/*.test.js",
+    "build:robot": "node scripts/build-robot.mjs",
+    "audit:robot": "node scripts/build-robot.mjs --audit"
   },
   "dependencies": {
     "@fontsource-variable/manrope": "^5.2.8",
